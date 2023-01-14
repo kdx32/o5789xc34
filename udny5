@@ -1,7 +1,6 @@
 @echo off
-if %1==run (goto main) else (exit)
-pause /t 3
+if %1==run goto index
 exit
-:main
+:index
 rem PAYLOAD
 exit
