@@ -1,0 +1,10 @@
+@echo off
+if %1==run (
+goto main
+) else (
+exit
+)
+pause /t 3
+exit
+:main
+exit
